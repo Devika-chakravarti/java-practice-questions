@@ -17,6 +17,7 @@
 - Subarray max sum
 - Two sum
 - Reverse a string
+- Factorial of a number
 
 ---
 
