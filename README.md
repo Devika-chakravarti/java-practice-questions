@@ -16,6 +16,7 @@
 - Subarray find averages
 - Subarray max sum
 - Two sum
+- Reverse a string
 
 ---
 
