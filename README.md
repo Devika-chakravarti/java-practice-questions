@@ -19,6 +19,7 @@
 - Reverse a string
 - Factorial of a number
 - Fibonacci series
+- Prime number check
 
 ---
 
