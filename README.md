@@ -22,6 +22,7 @@
 - Prime number check
 - Sum of digits of a number
 - Count number of vowels in a string
+- Maximum number in an array
 
 ---
 
