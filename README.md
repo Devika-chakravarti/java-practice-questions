@@ -20,6 +20,7 @@
 - Factorial of a number
 - Fibonacci series
 - Prime number check
+- Sum of digits of a number
 
 ---
 
